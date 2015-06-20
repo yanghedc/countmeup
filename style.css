@@ -1,0 +1,154 @@
+body {
+	background-color: #f4f4f4;
+}
+
+#middle{
+	width: 400px;
+	height: 150px;
+	background-color: none;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+}
+
+#top{
+	width: 400px;
+	height: 40px;
+	margin-top: 20px;
+	background-color: none;
+}
+
+
+		
+		
+#wrapper {
+width: 400px;
+height: 150px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Keania One', cursive;
+text-align: center;
+}
+
+#clock {
+width: 100px;
+margin-left: auto;
+margin-right: auto;
+font-size: 25px;
+}
+#earned {
+width: 100px;
+margin-left: auto;
+margin-right: auto;
+font-size: 30px;
+}
+
+input#wage {
+    border: 0;
+    outline: ;
+    background: transparent;
+    border-bottom: 2px solid #C51;
+    width: 120px;
+	font-size: 16px;
+	text-align: left;
+	font-family: 'Keania One', cursive;
+	margin: 0px 0px 2px 0px;
+	padding: 0px 0px 0px 4px;
+	color: #CCC;
+
+}
+
+.styled-select {
+   width: 125px;
+   height: 25px;
+   overflow: hidden;
+   background: url(down_chevron2.png) no-repeat right transparent;
+   border-bottom: 2px solid #C51;
+   height: 20px;
+   -webkit-appearance: none;
+   float; right;
+   }
+
+#hrate {
+
+    border: 0;
+    background: transparent;
+    width: 150px;
+	font-size: 16px;
+	text-align: left;
+	font-family: 'Keania One', cursive;
+	height: 20px;
+	margin: 75px 0px 2px 0px;
+	padding: 0px 0px 0px 4px;
+	color: #CCC;
+
+
+
+}
+
+#modal select {
+   background: transparent;
+   	color: #CCC;
+   width: 144px;
+   font-size: 15px;
+   padding: 0px 0px 0px 0px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 21px;
+   -webkit-appearance: none;
+   display: inline-block;
+   	font-family: 'Keania One', cursive;
+  text-align: left;
+   }
+   
+         a, a:visited { color: #C30; text-decoration: none; border-bottom: 1px dotted #C30; }
+        a:hover { color: #900; border-bottom-style: solid; }
+
+		#modal { 
+display: none; 
+font: 12px/16px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#modal a { background: #CCC; color: #333; font-weight: bold; padding: 5px 10px; border: none; }
+#modal a:hover { background: #aaa; } 
+#modal h2 { color: gray; margin-left: 2px; }
+
+#submit { background: #CCC; color: #333; font-weight: bold; border: none;
+font-size: 12px; 
+font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+padding: 3px 5px 3px 5px;
+margin: 0px 15px 0px 2px;
+}
+#submit:hover { background: #aaa; } 
+
+
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0px 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; }
+.ui-timepicker-rtl dl dd { margin: 0 65px 10px 10px; }
+
+#tabs, #ui-datepicker-div, .ui-datepicker{ font-size: 75%; }
+
+#starttimee {
+    border: 0;
+    outline: ;
+    background: transparent;
+    border-bottom: 2px solid #C51;
+    width: 120px;
+	font-size: 16px;
+	text-align: left;
+	font-family: 'Keania One', cursive;
+	margin: 0px 0px 2px 0px;
+	padding: 0px 0px 0px 4px;
+	color: #CCC;
+
+}
